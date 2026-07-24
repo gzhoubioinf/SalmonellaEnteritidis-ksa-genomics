@@ -36,10 +36,10 @@ Rscript scripts/Enteritidis_plot.R
 Figures are written as SVG into `Figure1/`.
 
 ---
+## Contact
 
-**[Infectious Disease Epidemiology Lab](https://ide.kaust.edu.sa/) (KAUST)**
+For questions about this repository, contact Ge Zhou (ge.zhou@kaust.edu.sa; PhD
+candidate) at the [Infectious Disease Epidemiology Lab](https://ide.kaust.edu.sa/), KAUST.
 
-- Danesh Moradigaravand — PI, KAUST — danesh.moradigaravand@kaust.edu.sa
-- Ge Zhou — PhD candidate — ge.zhou@kaust.edu.sa
 
 
