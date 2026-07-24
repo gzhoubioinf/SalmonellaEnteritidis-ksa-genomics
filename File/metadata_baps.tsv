@@ -1,0 +1,398 @@
+Isolate	location	region	origin	collection_date	BAPS	Source	baps_level2	City	Latitude	Longitude
+ERR13696826	Netherlands	Europe	external	06/03/2020	1	Human	1	NA	NA	NA
+ERR13710365	Netherlands	Europe	external	08/03/2022	1	Human	1	NA	NA	NA
+ERR13818783	Netherlands	Europe	external	22/08/2023	2	Human	2	NA	NA	NA
+ERR2118119	Australia	Oceania	external	30/06/2016	6	Human	6	NA	NA	NA
+ERR3997477	Lebanon	Middle East	external	30/06/2017	6	Human	6	NA	NA	NA
+ERR5751853	South Africa	Africa	external	07/01/2021	3	Human	3	NA	NA	NA
+SE001	Saudi Arabia	Middle East	internal	22/08/2022	7	Human	7	Jeddah	21.5433	39.1728
+SE016	Saudi Arabia	Middle East	internal	23/08/2022	4	Human	4	Najran	17.4924	44.1277
+SE017	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Najran	17.4924	44.1277
+SE018	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE019	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE020	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE021	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE022	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE023	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE024	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE025	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE026	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE027	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE028	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE029	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE030	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE032	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE033	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE034	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE035	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE036	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE037	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE038	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE039	Saudi Arabia	Middle East	internal	23/08/2022	6	Human	6	Shaurah	17.4667	47.1167
+SE043	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE044	Saudi Arabia	Middle East	internal	23/08/2022	1	Human	1	Shaurah	17.4667	47.1167
+SE047	Saudi Arabia	Middle East	internal	28/08/2022	1	Human	1	Aljouf	29.9697	40.2064
+SE050	Saudi Arabia	Middle East	internal	05/08/2022	1	Human	1	Jeddah	21.5433	39.1728
+SE055	Saudi Arabia	Middle East	internal	19/09/2022	1	Human	1	Jeddah	21.5433	39.1728
+SE061	Saudi Arabia	Middle East	internal	12/08/2022	6	Human	6	Dammam	26.4344	50.1033
+SE062	Saudi Arabia	Middle East	internal	12/08/2022	6	Human	6	Dammam	26.4344	50.1033
+SE064	Saudi Arabia	Middle East	internal	14/08/2022	6	Human	6	Dammam	26.4344	50.1033
+SE065	Saudi Arabia	Middle East	internal	22/08/2022	7	Human	7	Aljouf	29.9697	40.2064
+SE066	Saudi Arabia	Middle East	internal	10/09/2022	4	Human	4	Riyadh	24.7136	46.6753
+SE067	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE068	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE069	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE070	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE071	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE072	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE073	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE074	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE075	Saudi Arabia	Middle East	internal	30/10/2022	1	Human	1	Riyadh	24.7136	46.6753
+SE079	Saudi Arabia	Middle East	internal	26/01/2023	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE080	Saudi Arabia	Middle East	internal	26/01/2023	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE081	Saudi Arabia	Middle East	internal	26/01/2023	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE082	Saudi Arabia	Middle East	internal	NA	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE083	Saudi Arabia	Middle East	internal	01/02/2023	4	Human	4	Muhayil Assir	18.5444	42.0393
+SE084	Saudi Arabia	Middle East	internal	NA	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE085	Saudi Arabia	Middle East	internal	24/01/2023	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE086	Saudi Arabia	Middle East	internal	26/01/2023	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE087	Saudi Arabia	Middle East	internal	04/01/2023	4	Human	4	Muhayil Assir	18.5444	42.0393
+SE088	Saudi Arabia	Middle East	internal	24/01/2023	1	Human	1	Muhayil Assir	18.5444	42.0393
+SE089	Saudi Arabia	Middle East	internal	03/01/2023	4	Human	4	Muhayil Assir	18.5444	42.0393
+SE090	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE091	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE092	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE093	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE094	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE095	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE096	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE097	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE098	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE099	Saudi Arabia	Middle East	internal	18/10/2022	1	Human	1	Jeddah	21.5433	39.1728
+SE100	Saudi Arabia	Middle East	internal	NA	7	Human	7	Jeddah	21.5433	39.1728
+SE101	Saudi Arabia	Middle East	internal	NA	2	Human	2	Jeddah	21.5433	39.1728
+SE102	Saudi Arabia	Middle East	internal	NA	1	Human	1	Jeddah	21.5433	39.1728
+SE103	Saudi Arabia	Middle East	internal	NA	4	Human	4	Jeddah	21.5433	39.1728
+SE104	Saudi Arabia	Middle East	internal	NA	4	Human	4	Jeddah	21.5433	39.1728
+SE105	Saudi Arabia	Middle East	internal	09/03/2023	1	Human	1	Najran	17.4924	44.1277
+SE106	Saudi Arabia	Middle East	internal	NA	2	Human	2	Tabouk	28.3835	36.5662
+SE107	Saudi Arabia	Middle East	internal	NA	2	Human	2	Najran	17.4924	44.1277
+SE110	Saudi Arabia	Middle East	internal	NA	4	Human	4	Tabouk	28.3835	36.5662
+SE111	Saudi Arabia	Middle East	internal	NA	4	Human	4	Tabouk	28.3835	36.5662
+SE113	Saudi Arabia	Middle East	internal	09/01/2023	4	Human	4	Qatif	26.5196	50.0115
+SE114	Saudi Arabia	Middle East	internal	09/01/2023	6	Human	6	Qatif	26.5196	50.0115
+SE116	Saudi Arabia	Middle East	internal	03/11/2022	1	Human	1	Aljouf	29.9697	40.2064
+SE119	Saudi Arabia	Middle East	internal	NA	7	Human	7	Dammam	26.4344	50.1033
+SE120	Saudi Arabia	Middle East	internal	28/06/2020	3	Food	3	NA	NA	NA
+SE121	Saudi Arabia	Middle East	internal	28/06/2020	3	Food	3	NA	NA	NA
+SE122	Saudi Arabia	Middle East	internal	07/08/2020	6	Food	6	Dammam	26.4344	50.1033
+SE123	Saudi Arabia	Middle East	internal	07/08/2020	6	Food	6	Dammam	26.4344	50.1033
+SE124	Saudi Arabia	Middle East	internal	07/08/2020	6	Food	6	Dammam	26.4344	50.1033
+SE125	Saudi Arabia	Middle East	internal	07/08/2020	3	Food	3	Dammam	26.4344	50.1033
+SE126	Saudi Arabia	Middle East	internal	07/08/2020	3	Food	3	Dammam	26.4344	50.1033
+SE127	Saudi Arabia	Middle East	internal	07/08/2020	3	Food	3	Dammam	26.4344	50.1033
+SE128	Saudi Arabia	Middle East	internal	22/07/2020	3	Food	3	Riyadh	24.7136	46.6753
+SE129	Saudi Arabia	Middle East	internal	22/07/2020	8	Food	8	Riyadh	24.7136	46.6753
+SE131	Saudi Arabia	Middle East	internal	26/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE132	Saudi Arabia	Middle East	internal	26/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE133	Saudi Arabia	Middle East	internal	26/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE134	Saudi Arabia	Middle East	internal	26/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE135	Saudi Arabia	Middle East	internal	07/07/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE136	Saudi Arabia	Middle East	internal	07/07/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE137	Saudi Arabia	Middle East	internal	07/12/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE138	Saudi Arabia	Middle East	internal	07/12/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE139	Saudi Arabia	Middle East	internal	18/07/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE140	Saudi Arabia	Middle East	internal	07/12/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE141	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE142	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE143	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE144	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE145	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE146	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE147	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE148	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE149	Saudi Arabia	Middle East	internal	28/06/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE150	Saudi Arabia	Middle East	internal	19/08/2020	8	Food	8	Jeddah	21.5433	39.1728
+SE151	Saudi Arabia	Middle East	internal	19/08/2020	7	Food	7	Dammam	26.4344	50.1033
+SE152	Saudi Arabia	Middle East	internal	19/08/2020	7	Food	7	Dammam	26.4344	50.1033
+SE153	Saudi Arabia	Middle East	internal	19/08/2020	7	Food	7	Dammam	26.4344	50.1033
+SE154	Saudi Arabia	Middle East	internal	28/07/2020	7	Food	7	Riyadh	24.7136	46.6753
+SE155	Saudi Arabia	Middle East	internal	29/07/2020	7	Food	7	Riyadh	24.7136	46.6753
+SE156	Saudi Arabia	Middle East	internal	29/07/2020	7	Food	7	Riyadh	24.7136	46.6753
+SE157	Saudi Arabia	Middle East	internal	29/07/2020	7	Food	7	Riyadh	24.7136	46.6753
+SE158	Saudi Arabia	Middle East	internal	28/08/2020	3	Food	3	Dammam	26.4344	50.1033
+SE159	Saudi Arabia	Middle East	internal	28/08/2020	3	Food	3	Dammam	26.4344	50.1033
+SE160	Saudi Arabia	Middle East	internal	28/08/2020	3	Food	3	Dammam	26.4344	50.1033
+SE161	Saudi Arabia	Middle East	internal	28/08/2020	3	Food	3	Dammam	26.4344	50.1033
+SE162	Saudi Arabia	Middle East	internal	08/03/2020	7	Food	7	Dammam	26.4344	50.1033
+SE163	Saudi Arabia	Middle East	internal	08/03/2020	7	Food	7	Dammam	26.4344	50.1033
+SE164	Saudi Arabia	Middle East	internal	09/10/2020	2	Food	2	Dammam	26.4344	50.1033
+SE165	Saudi Arabia	Middle East	internal	09/10/2020	3	Food	3	Dammam	26.4344	50.1033
+SE166	Saudi Arabia	Middle East	internal	09/10/2020	2	Food	2	Dammam	26.4344	50.1033
+SE167	Saudi Arabia	Middle East	internal	09/10/2020	3	Food	3	Dammam	26.4344	50.1033
+SE168	Saudi Arabia	Middle East	internal	09/10/2020	2	Food	2	Dammam	26.4344	50.1033
+SE169	Saudi Arabia	Middle East	internal	09/10/2020	3	Food	3	Dammam	26.4344	50.1033
+SE170	Saudi Arabia	Middle East	internal	09/10/2020	3	Food	3	Dammam	26.4344	50.1033
+SE171	Saudi Arabia	Middle East	internal	09/10/2020	2	Food	2	Dammam	26.4344	50.1033
+SE172	Saudi Arabia	Middle East	internal	09/10/2020	7	Food	7	Dammam	26.4344	50.1033
+SE173	Saudi Arabia	Middle East	internal	09/10/2020	7	Food	7	Dammam	26.4344	50.1033
+SE174	Saudi Arabia	Middle East	internal	09/10/2020	7	Food	7	Dammam	26.4344	50.1033
+SE175	Saudi Arabia	Middle East	internal	09/10/2020	7	Food	7	Dammam	26.4344	50.1033
+SE176	Saudi Arabia	Middle East	internal	09/10/2020	7	Food	7	Dammam	26.4344	50.1033
+SE177	Saudi Arabia	Middle East	internal	09/10/2020	7	Food	7	Dammam	26.4344	50.1033
+SE178	Saudi Arabia	Middle East	internal	09/10/2020	7	Food	7	Dammam	26.4344	50.1033
+SE179	Saudi Arabia	Middle East	internal	17/09/2020	7	Food	7	Dammam	26.4344	50.1033
+SE180	Saudi Arabia	Middle East	internal	17/09/2020	7	Food	7	Dammam	26.4344	50.1033
+SE181	Saudi Arabia	Middle East	internal	17/09/2020	2	Food	2	Dammam	26.4344	50.1033
+SE182	Saudi Arabia	Middle East	internal	24/09/2020	2	Food	2	Dammam	26.4344	50.1033
+SE183	Saudi Arabia	Middle East	internal	24/09/2020	6	Food	6	Dammam	26.4344	50.1033
+SE184	Saudi Arabia	Middle East	internal	24/09/2020	8	Food	8	Dammam	26.4344	50.1033
+SE185	Saudi Arabia	Middle East	internal	24/09/2020	8	Food	8	Dammam	26.4344	50.1033
+SE186	Saudi Arabia	Middle East	internal	24/09/2020	8	Food	8	Dammam	26.4344	50.1033
+SE187	Saudi Arabia	Middle East	internal	24/09/2020	8	Food	8	Dammam	26.4344	50.1033
+SE188	Saudi Arabia	Middle East	internal	14/10/2020	3	Food	3	Dammam	26.4344	50.1033
+SE189	Saudi Arabia	Middle East	internal	14/10/2020	3	Food	3	Dammam	26.4344	50.1033
+SE190	Saudi Arabia	Middle East	internal	14/10/2020	3	Food	3	Dammam	26.4344	50.1033
+SE191	Saudi Arabia	Middle East	internal	14/10/2020	2	Food	2	Dammam	26.4344	50.1033
+SE192	Saudi Arabia	Middle East	internal	14/10/2020	2	Food	2	Dammam	26.4344	50.1033
+SE193	Saudi Arabia	Middle East	internal	30/08/2020	2	Food	2	Jeddah	21.5433	39.1728
+SE194	Saudi Arabia	Middle East	internal	30/08/2020	2	Food	2	Jeddah	21.5433	39.1728
+SE195	Saudi Arabia	Middle East	internal	30/08/2020	2	Food	2	Jeddah	21.5433	39.1728
+SE196	Saudi Arabia	Middle East	internal	30/08/2020	2	Food	2	Jeddah	21.5433	39.1728
+SE197	Saudi Arabia	Middle East	internal	30/08/2020	2	Food	2	Jeddah	21.5433	39.1728
+SE198	Saudi Arabia	Middle East	internal	30/08/2020	2	Food	2	Jeddah	21.5433	39.1728
+SE199	Saudi Arabia	Middle East	internal	30/08/2020	3	Food	3	Jeddah	21.5433	39.1728
+SE201	Saudi Arabia	Middle East	internal	25/10/2020	2	Food	2	Jeddah	21.5433	39.1728
+SE202	Saudi Arabia	Middle East	internal	06/08/2021	4	Food	4	Riyadh	24.7136	46.6753
+SE203	Saudi Arabia	Middle East	internal	06/08/2021	2	Food	2	Riyadh	24.7136	46.6753
+SE204	Saudi Arabia	Middle East	internal	06/08/2021	2	Food	2	Riyadh	24.7136	46.6753
+SE208	Saudi Arabia	Middle East	internal	29/12/2020	2	Food	2	Riyadh	24.7136	46.6753
+SE209	Saudi Arabia	Middle East	internal	28/12/2021	4	Food	4	Riyadh	24.7136	46.6753
+SE211	Saudi Arabia	Middle East	internal	07/03/2022	4	Food	4	Riyadh	24.7136	46.6753
+SE212	Saudi Arabia	Middle East	internal	07/03/2022	4	Food	4	Riyadh	24.7136	46.6753
+SE213	Saudi Arabia	Middle East	internal	07/03/2022	4	Food	4	Riyadh	24.7136	46.6753
+SE214	Saudi Arabia	Middle East	internal	07/03/2022	4	Food	4	Riyadh	24.7136	46.6753
+SE216	Saudi Arabia	Middle East	internal	25/04/2022	7	Food	7	Riyadh	24.7136	46.6753
+SE220	Saudi Arabia	Middle East	internal	NA	1	Food	1	Riyadh	24.7136	46.6753
+SE221	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE222	Saudi Arabia	Middle East	internal	NA	2	Food	2	Riyadh	24.7136	46.6753
+SE223	Saudi Arabia	Middle East	internal	NA	3	Food	3	Riyadh	24.7136	46.6753
+SE224	Saudi Arabia	Middle East	internal	NA	6	Food	6	Riyadh	24.7136	46.6753
+SE226	Saudi Arabia	Middle East	internal	NA	6	Food	6	Riyadh	24.7136	46.6753
+SE228	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE230	Saudi Arabia	Middle East	internal	NA	6	Food	6	Riyadh	24.7136	46.6753
+SE231	Saudi Arabia	Middle East	internal	NA	1	Food	1	Riyadh	24.7136	46.6753
+SE233	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE234	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE235	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE237	Saudi Arabia	Middle East	internal	NA	6	Food	6	Riyadh	24.7136	46.6753
+SE238	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE239	Saudi Arabia	Middle East	internal	NA	1	Food	1	Riyadh	24.7136	46.6753
+SE240	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE241	Saudi Arabia	Middle East	internal	NA	6	Food	6	Riyadh	24.7136	46.6753
+SE242	Saudi Arabia	Middle East	internal	NA	2	Food	2	Riyadh	24.7136	46.6753
+SE243	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SE244	Saudi Arabia	Middle East	internal	NA	4	Food	4	Riyadh	24.7136	46.6753
+SRR10066835	United States	North America	external	01/08/2019	5	Human	5	NA	NA	NA
+SRR10228815	United Kingdom	Europe	external	01/09/2019	1	Human	1	NA	NA	NA
+SRR10247588	United Kingdom	Europe	external	01/09/2019	1	Human	1	NA	NA	NA
+SRR10294377	United Kingdom	Europe	external	01/10/2019	6	Human	6	NA	NA	NA
+SRR10298109	United States	North America	external	01/09/2019	9	Human	9	NA	NA	NA
+SRR10333963	United States	North America	external	01/09/2019	5	Human	5	NA	NA	NA
+SRR10413913	United States	North America	external	01/10/2019	9	Human	9	NA	NA	NA
+SRR10418676	Saudi Arabia	Middle East	external	01/10/2019	3	Human	3	NA	NA	NA
+SRR10431714	United Kingdom	Europe	external	01/11/2019	1	Human	1	NA	NA	NA
+SRR10519564	United Kingdom	Europe	external	01/11/2019	1	Human	1	NA	NA	NA
+SRR10519604	United Kingdom	Europe	external	01/11/2019	1	Human	1	NA	NA	NA
+SRR10522040	United Kingdom	Europe	external	01/11/2019	1	Human	1	NA	NA	NA
+SRR10524278	United States	North America	external	01/11/2019	6	Human	6	NA	NA	NA
+SRR10667016	United Kingdom	Europe	external	01/12/2019	1	Human	1	NA	NA	NA
+SRR10763791	United Kingdom	Europe	external	01/12/2019	7	Human	7	NA	NA	NA
+SRR10805198	Kuwait	Middle East	external	01/12/2019	6	Human	6	NA	NA	NA
+SRR10810788	United Kingdom	Europe	external	01/12/2019	1	Human	1	NA	NA	NA
+SRR10810791	United Kingdom	Europe	external	01/12/2019	1	Human	1	NA	NA	NA
+SRR10810795	United Kingdom	Europe	external	01/12/2019	1	Human	1	NA	NA	NA
+SRR10883335	United States	North America	external	01/12/2019	5	Human	5	NA	NA	NA
+SRR10914135	United Kingdom	Europe	external	01/01/2020	1	Human	1	NA	NA	NA
+SRR10947732	United Kingdom	Europe	external	01/01/2020	1	Human	1	NA	NA	NA
+SRR11033281	United States	North America	external	01/01/2020	5	Human	5	NA	NA	NA
+SRR11096934	United Kingdom	Europe	external	01/02/2020	1	Human	1	NA	NA	NA
+SRR11215357	United Kingdom	Europe	external	01/02/2020	1	Human	1	NA	NA	NA
+SRR11314419	United States	North America	external	01/03/2020	3	Human	3	NA	NA	NA
+SRR11362268	United Kingdom	Europe	external	01/02/2020	1	Human	1	NA	NA	NA
+SRR11362287	United Kingdom	Europe	external	01/09/2019	1	Human	1	NA	NA	NA
+SRR11516598	United Kingdom	Europe	external	01/03/2020	1	Human	1	NA	NA	NA
+SRR11676204	Kuwait	Middle East	external	01/04/2020	6	Human	6	NA	NA	NA
+SRR12417588	China	East Asia	external	30/06/2018	10	Human	10	NA	NA	NA
+SRR12694552	United Kingdom	Europe	external	01/09/2020	3	Human	3	NA	NA	NA
+SRR12743424	United Kingdom	Europe	external	01/09/2020	3	Human	3	NA	NA	NA
+SRR12770175	United Kingdom	Europe	external	01/12/2019	7	Human	7	NA	NA	NA
+SRR13426369	Canada	North America	external	19/12/2018	6	Human	6	NA	NA	NA
+SRR13672975	United Kingdom	Europe	external	01/02/2021	3	Human	3	NA	NA	NA
+SRR14083860	Canada	North America	external	30/06/2018	3	Human	3	NA	NA	NA
+SRR14145261	Australia	Oceania	external	30/06/2018	11	Human	11	NA	NA	NA
+SRR14477279	China	East Asia	external	15/12/2014	12	Food	12	NA	NA	NA
+SRR14477280	China	East Asia	external	15/12/2014	12	Food	12	NA	NA	NA
+SRR14477281	China	East Asia	external	15/12/2014	12	Food	12	NA	NA	NA
+SRR15428700	United Kingdom	Europe	external	01/07/2021	5	Human	5	NA	NA	NA
+SRR16168853	United Kingdom	Europe	external	01/09/2021	5	Human	5	NA	NA	NA
+SRR16568786	United Kingdom	Europe	external	01/09/2021	5	Human	5	NA	NA	NA
+SRR16976143	United Kingdom	Europe	external	01/11/2021	6	Human	6	NA	NA	NA
+SRR16993400	United Kingdom	Europe	external	01/11/2021	1	Human	1	NA	NA	NA
+SRR17130969	United Kingdom	Europe	external	01/11/2021	1	Human	1	NA	NA	NA
+SRR17205340	United Kingdom	Europe	external	01/12/2021	3	Human	3	NA	NA	NA
+SRR18071763	United States	North America	external	01/01/2022	5	Human	5	NA	NA	NA
+SRR18100380	United States	North America	external	01/02/2022	5	Human	5	NA	NA	NA
+SRR18163370	United States	North America	external	01/02/2022	5	Human	5	NA	NA	NA
+SRR18762096	United Kingdom	Europe	external	01/04/2022	4	Human	4	NA	NA	NA
+SRR19019569	United Kingdom	Europe	external	01/04/2022	1	Human	1	NA	NA	NA
+SRR19023451	United Kingdom	Europe	external	01/04/2022	1	Human	1	NA	NA	NA
+SRR19136144	United Kingdom	Europe	external	01/04/2022	1	Human	1	NA	NA	NA
+SRR19325510	United Kingdom	Europe	external	01/05/2022	1	Human	1	NA	NA	NA
+SRR19349898	United Kingdom	Europe	external	01/05/2022	3	Environment	3	NA	NA	NA
+SRR1959458	United Kingdom	Europe	external	01/01/2015	7	Human	7	NA	NA	NA
+SRR1959510	United Kingdom	Europe	external	01/01/2015	7	Human	7	NA	NA	NA
+SRR1961769	United Kingdom	Europe	external	01/11/2014	12	Human	12	NA	NA	NA
+SRR1963255	United Kingdom	Europe	external	01/09/2014	7	Human	7	NA	NA	NA
+SRR1963283	United Kingdom	Europe	external	01/12/2014	6	Human	6	NA	NA	NA
+SRR1966916	United Kingdom	Europe	external	01/05/2014	6	Human	6	NA	NA	NA
+SRR1967329	United Kingdom	Europe	external	01/10/2014	7	Human	7	NA	NA	NA
+SRR1968066	United Kingdom	Europe	external	01/02/2015	6	Human	6	NA	NA	NA
+SRR1969338	United Kingdom	Europe	external	01/05/2014	6	Human	6	NA	NA	NA
+SRR1970115	United Kingdom	Europe	external	01/10/2014	6	Human	6	NA	NA	NA
+SRR20281809	United States	North America	external	01/06/2022	1	NA	1	NA	NA	NA
+SRR20715499	United Kingdom	Europe	external	01/07/2022	1	Human	1	NA	NA	NA
+SRR21130293	United Kingdom	Europe	external	01/08/2022	1	Human	1	NA	NA	NA
+SRR21549197	Saudi Arabia	Middle East	external	02/06/2020	6	Food	6	NA	NA	NA
+SRR21549198	Saudi Arabia	Middle East	external	02/06/2020	8	Food	8	NA	NA	NA
+SRR21549199	Saudi Arabia	Middle East	external	02/06/2020	3	Food	3	NA	NA	NA
+SRR21549200	Saudi Arabia	Middle East	external	02/06/2020	3	Food	3	NA	NA	NA
+SRR21549201	Saudi Arabia	Middle East	external	02/06/2020	3	Food	3	NA	NA	NA
+SRR21549203	Saudi Arabia	Middle East	external	02/06/2020	3	Food	3	NA	NA	NA
+SRR21549204	Saudi Arabia	Middle East	external	02/06/2020	3	Food	3	NA	NA	NA
+SRR21549206	Saudi Arabia	Middle East	external	02/06/2020	3	Food	3	NA	NA	NA
+SRR21991850	China	East Asia	external	28/08/2018	9	Human	9	NA	NA	NA
+SRR21991946	China	East Asia	external	25/11/2019	9	Human	9	NA	NA	NA
+SRR22085378	United Kingdom	Europe	external	01/10/2022	4	Human	4	NA	NA	NA
+SRR22434319	United Kingdom	Europe	external	01/11/2022	4	Human	4	NA	NA	NA
+SRR22434451	United Kingdom	Europe	external	01/11/2022	1	Human	1	NA	NA	NA
+SRR23073800	United States	North America	external	01/12/2022	6	Human	6	NA	NA	NA
+SRR23195272	United Kingdom	Europe	external	01/01/2023	4	Human	4	NA	NA	NA
+SRR23264845	Kuwait	Middle East	external	01/09/2018	6	Human	6	NA	NA	NA
+SRR23264846	Kuwait	Middle East	external	01/09/2021	7	Human	7	NA	NA	NA
+SRR23264847	Kuwait	Middle East	external	01/07/2018	6	Human	6	NA	NA	NA
+SRR23479310	United States	North America	external	01/01/2023	5	Human	5	NA	NA	NA
+SRR23602597	United States	North America	external	01/01/2023	7	Human	7	NA	NA	NA
+SRR23724988	United States	North America	external	30/06/2023	2	Human	2	NA	NA	NA
+SRR23932213	United States	North America	external	30/06/2023	5	Human	5	NA	NA	NA
+SRR25872774	United Kingdom	Europe	external	01/09/2022	1	Human	1	NA	NA	NA
+SRR26804881	United States	North America	external	30/06/2023	7	Human	7	NA	NA	NA
+SRR27873616	United States	North America	external	30/01/2024	7	Human	7	NA	NA	NA
+SRR28200806	United Kingdom	Europe	external	01/03/2023	2	Human	2	NA	NA	NA
+SRR28200933	United Kingdom	Europe	external	01/03/2023	4	Human	4	NA	NA	NA
+SRR28277025	United Kingdom	Europe	external	01/01/2023	2	Human	2	NA	NA	NA
+SRR28281987	United Kingdom	Europe	external	01/01/2023	2	Human	2	NA	NA	NA
+SRR28402537	United Kingdom	Europe	external	01/03/2024	6	Human	6	NA	NA	NA
+SRR28414968	United Kingdom	Europe	external	01/03/2024	1	Human	1	NA	NA	NA
+SRR28582564	United States	North America	external	30/01/2024	5	Human	5	NA	NA	NA
+SRR28701891	United Kingdom	Europe	external	01/04/2024	4	Human	4	NA	NA	NA
+SRR28726834	United Kingdom	Europe	external	01/04/2024	4	Human	4	NA	NA	NA
+SRR28763997	China	East Asia	external	30/06/2023	9	Food	9	NA	NA	NA
+SRR28764000	China	East Asia	external	30/06/2023	9	Food	9	NA	NA	NA
+SRR28764052	China	East Asia	external	30/06/2023	9	Food	9	NA	NA	NA
+SRR28764056	China	East Asia	external	30/06/2022	9	Food	9	NA	NA	NA
+SRR29077946	United Kingdom	Europe	external	01/02/2024	5	Human	5	NA	NA	NA
+SRR29080434	United Kingdom	Europe	external	01/02/2024	5	Human	5	NA	NA	NA
+SRR29080486	United Kingdom	Europe	external	01/02/2024	4	Human	4	NA	NA	NA
+SRR29184389	United Kingdom	Europe	external	01/11/2023	4	Human	4	NA	NA	NA
+SRR29188942	United Kingdom	Europe	external	01/11/2023	4	Human	4	NA	NA	NA
+SRR29334257	United Kingdom	Europe	external	01/09/2023	2	Human	2	NA	NA	NA
+SRR29334263	United Kingdom	Europe	external	01/09/2023	2	Human	2	NA	NA	NA
+SRR29334335	United Kingdom	Europe	external	01/09/2023	2	Human	2	NA	NA	NA
+SRR29339894	United Kingdom	Europe	external	01/09/2023	2	Human	2	NA	NA	NA
+SRR29339915	United Kingdom	Europe	external	01/08/2023	1	Human	1	NA	NA	NA
+SRR29482056	United Kingdom	Europe	external	01/06/2024	4	Human	4	NA	NA	NA
+SRR29499509	United Kingdom	Europe	external	01/06/2024	1	Human	1	NA	NA	NA
+SRR29503918	United Kingdom	Europe	external	01/05/2023	4	Human	4	NA	NA	NA
+SRR29503960	United Kingdom	Europe	external	01/05/2023	3	Human	3	NA	NA	NA
+SRR29504084	United Kingdom	Europe	external	01/05/2023	1	Human	1	NA	NA	NA
+SRR29881189	United States	North America	external	30/01/2024	1	Human	1	NA	NA	NA
+SRR30181462	United Kingdom	Europe	external	01/07/2024	7	Human	7	NA	NA	NA
+SRR30347754	United Kingdom	Europe	external	01/07/2024	7	Human	7	NA	NA	NA
+SRR30514186	Australia	Oceania	external	27/05/2019	1	Human	1	NA	NA	NA
+SRR30514786	Australia	Oceania	external	18/07/2019	1	NA	1	NA	NA	NA
+SRR30755747	United Kingdom	Europe	external	01/09/2024	4	Human	4	NA	NA	NA
+SRR3898621	United States	North America	external	01/04/2016	6	Human	6	NA	NA	NA
+SRR4446481	United States	North America	external	10/03/2009	11	Food	11	NA	NA	NA
+SRR4446482	United States	North America	external	10/03/2009	11	Food	11	NA	NA	NA
+SRR5193213	United Kingdom	Europe	external	01/11/2016	11	Human	11	NA	NA	NA
+SRR5215671	United Kingdom	Europe	external	01/05/2015	7	Human	7	NA	NA	NA
+SRR5220321	United Kingdom	Europe	external	01/07/2016	6	Human	6	NA	NA	NA
+SRR5955301	United States	North America	external	01/07/2017	12	Human	12	NA	NA	NA
+SRR6310356	United States	North America	external	01/10/2017	9	Human	9	NA	NA	NA
+SRR6898085	United Kingdom	Europe	external	01/08/2017	10	Human	10	NA	NA	NA
+SRR6898089	United Kingdom	Europe	external	01/10/2017	6	Human	6	NA	NA	NA
+SRR6898124	United Kingdom	Europe	external	01/08/2017	10	Human	10	NA	NA	NA
+SRR6900479	United Kingdom	Europe	external	01/08/2017	10	Human	10	NA	NA	NA
+SRR6918656	United Kingdom	Europe	external	01/07/2017	3	Human	3	NA	NA	NA
+SRR6919817	United Kingdom	Europe	external	01/11/2017	6	Human	6	NA	NA	NA
+SRR6922530	United Kingdom	Europe	external	01/05/2017	3	Human	3	NA	NA	NA
+SRR7062216	Iraq	Middle East	external	30/06/2016	7	Environment	7	NA	NA	NA
+SRR7062217	Iraq	Middle East	external	30/06/2016	7	Environment	7	NA	NA	NA
+SRR7269152	United States	North America	external	01/11/2017	6	Human	6	NA	NA	NA
+SRR7285756	United Kingdom	Europe	external	01/11/2017	6	Human	6	NA	NA	NA
+SRR7456980	United Kingdom	Europe	external	01/04/2018	6	Human	6	NA	NA	NA
+SRR7458633	United Kingdom	Europe	external	01/01/2018	6	Human	6	NA	NA	NA
+SRR7480388	United Kingdom	Europe	external	01/06/2018	8	Human	8	NA	NA	NA
+SRR7873864	United Kingdom	Europe	external	01/09/2018	3	Human	3	NA	NA	NA
+SRR7890453	United Kingdom	Europe	external	01/12/2017	6	Human	6	NA	NA	NA
+SRR7892289	United Kingdom	Europe	external	01/12/2017	6	Human	6	NA	NA	NA
+SRR7997138	United Kingdom	Europe	external	01/10/2015	3	Human	3	NA	NA	NA
+SRR8137285	United Kingdom	Europe	external	01/09/2018	6	Human	6	NA	NA	NA
+SRR8176014	United States	North America	external	01/08/2018	6	Human	6	NA	NA	NA
+SRR8239915	United Kingdom	Europe	external	01/11/2018	6	Human	6	NA	NA	NA
+SRR8297312	United Kingdom	Europe	external	01/08/2018	6	Human	6	NA	NA	NA
+SRR8298719	United States	North America	external	01/07/2018	6	Human	6	NA	NA	NA
+SRR8327763	United States	North America	external	01/10/2018	9	Human	9	NA	NA	NA
+SRR8448469	United Kingdom	Europe	external	01/01/2019	6	Human	6	NA	NA	NA
+SRR8485123	United Kingdom	Europe	external	01/11/2018	6	Human	6	NA	NA	NA
+SRR8509111	United Kingdom	Europe	external	01/04/2018	7	Human	7	NA	NA	NA
+SRR8524471	United Kingdom	Europe	external	01/01/2018	6	Human	6	NA	NA	NA
+SRR8648032	United Kingdom	Europe	external	01/02/2019	6	Human	6	NA	NA	NA
+SRR8724946	United Kingdom	Europe	external	01/07/2015	8	Human	8	NA	NA	NA
+SRR8757177	United States	North America	external	01/02/2019	6	Human	6	NA	NA	NA
+SRR8879004	United Kingdom	Europe	external	01/03/2019	3	Human	3	NA	NA	NA
+SRR8893154	United Kingdom	Europe	external	01/04/2019	6	Human	6	NA	NA	NA
+SRR8899705	United States	North America	external	01/03/2019	6	Human	6	NA	NA	NA
+SRR9109561	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9122664	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9122665	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9122710	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9122712	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9153199	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9153205	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9153229	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9153240	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224567	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224586	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224587	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224588	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224610	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224611	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224612	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9224613	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9225005	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9225006	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9225007	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9225009	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9225010	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9257724	United Kingdom	Europe	external	01/05/2019	6	Human	6	NA	NA	NA
+SRR9261536	United Kingdom	Europe	external	01/05/2019	1	Human	1	NA	NA	NA
+SRR9267752	United States	North America	external	01/05/2019	10	Human	10	NA	NA	NA
+SRR9268579	United States	North America	external	01/05/2019	12	Human	12	NA	NA	NA
+SRR9273863	United Kingdom	Europe	external	01/05/2019	6	Human	6	NA	NA	NA
+SRR9304521	United Kingdom	Europe	external	01/06/2019	1	Human	1	NA	NA	NA
+SRR9321741	United Kingdom	Europe	external	01/06/2019	1	Human	1	NA	NA	NA
+SRR9678295	United Kingdom	Europe	external	01/07/2019	1	Human	1	NA	NA	NA
+SRR9719589	United Kingdom	Europe	external	01/07/2019	1	Human	1	NA	NA	NA
+SRR9827014	United Kingdom	Europe	external	01/07/2019	1	Human	1	NA	NA	NA
